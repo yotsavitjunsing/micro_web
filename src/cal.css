@@ -1,0 +1,24 @@
+*{
+    font-size: 20px;
+}
+
+.cal-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10% 0;
+    gap: 0.5rem;
+}
+.button-container{
+    display: inline-flex;
+    gap: 1rem;
+}
+.cal-button{
+    width: 200px;
+}
+button{
+    padding: 0.5rem;
+}
+input{
+    padding: 0.5rem;
+}
